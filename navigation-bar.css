@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 3vh;
+    background-color: yellow;
+}
+
+.container img {
+    height: 60px;
+    width: 80px;
+    vertical-align: middle;
+}
